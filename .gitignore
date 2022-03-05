@@ -1,3 +1,6 @@
 .vs/
 CSharpProgram/bin/
 CSharpProgram/obj/
+CSharpProgram.sln.DotSettings.user
+CSharpProgram.Test/bin/
+CSharpProgram.Test/obj/
